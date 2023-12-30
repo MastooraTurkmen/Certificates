@@ -7,3 +7,6 @@ These certificates are a testament to my dedication, expertise, and continuous l
     + Each certificate represents a significant milestone in my professional journey, symbolizing the   mastery and proficiency I have attained.
     + Through rigorous training and hands-on experience, I have honed my skills to deliver high-quality solutions and contribute effectively to software development projects.
     + Browse through my certificates to gain confidence in my abilities and witness my commitment to staying at the forefront of the ever-evolving tech landscape.
+
+
+## Universities & Courses 
