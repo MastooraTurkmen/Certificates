@@ -14,7 +14,7 @@ These certificates are a testament to my dedication, expertise, and continuous l
 ## Universities & Courses 🎊 🎖 📒
 
 1. ***Courses***
-   + [Coursera](https://www.coursera.org/)
+   + 🎆 [Coursera](https://www.coursera.org/)
        + ***Google IT Support***
        + ***IBM***
        + ***IBM Data Engineering***
