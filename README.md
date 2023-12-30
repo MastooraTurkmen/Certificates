@@ -20,6 +20,7 @@ These certificates are a testament to my dedication, expertise, and continuous l
        + ***CSS3***
        + ***JavaScript***
        + ***React***
+       + ***Python***
    + [Sololearn](https://www.sololearn.com/)
 
 2. **Universities**
