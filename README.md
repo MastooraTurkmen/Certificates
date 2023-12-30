@@ -39,7 +39,7 @@ These certificates are a testament to my dedication, expertise, and continuous l
 
 #### Coursera Certificates of Achievement
     
-    ![Alt text](image.png)
+    ![Google IT Support Png](image.png)
 
 ### **Universities**
    + [University of The People](https://www.uopeople.edu/)
