@@ -12,3 +12,5 @@ These certificates are a testament to my dedication, expertise, and continuous l
 
 
 ## Universities & Courses 🎊 🎖 📒
+
+1. [Coursera](https://www.coursera.org/)
