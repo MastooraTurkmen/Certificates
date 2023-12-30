@@ -39,7 +39,6 @@ These certificates are a testament to my dedication, expertise, and continuous l
 
 #### Coursera Certificates of Achievement
 
-
 ### **Universities**
    + [University of The People](https://www.uopeople.edu/)
 
