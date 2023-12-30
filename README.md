@@ -19,4 +19,4 @@ These certificates are a testament to my dedication, expertise, and continuous l
    + [Sololearn](https://www.sololearn.com/)
 
 2. **Universities**
-   + [University of The People]
+   + [University of The People](https://www.uopeople.edu/)
