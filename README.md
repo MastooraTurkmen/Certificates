@@ -18,6 +18,7 @@ These certificates are a testament to my dedication, expertise, and continuous l
    + [Scrimba](https://scrimba.com/)
        + ***HTML5***
        + ***CSS3***
+       + ***JavaScript***
    + [Sololearn](https://www.sololearn.com/)
 
 2. **Universities**
