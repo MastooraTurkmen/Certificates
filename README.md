@@ -17,6 +17,7 @@ These certificates are a testament to my dedication, expertise, and continuous l
    + [Coursera](https://www.coursera.org/)
    + [Scrimba](https://scrimba.com/)
        + ***HTML5***
+       + ***HTML***
        + ***CSS3***
        + ***JavaScript***
        + ***React***
