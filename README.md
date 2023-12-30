@@ -36,8 +36,8 @@ These certificates are a testament to my dedication, expertise, and continuous l
        + ***JavaScript***
        + ***React***
 
-2. **Universities**
+
+
+### **Universities**
    + [University of The People](https://www.uopeople.edu/)
 
-
-## 
