@@ -17,6 +17,7 @@ These certificates are a testament to my dedication, expertise, and continuous l
    + [Coursera](https://www.coursera.org/)
      + ***IBM***
      + ***IBM Data Engineering***
+     + ***IBM Data Sceince***
    + [Scrimba](https://scrimba.com/)
        + ***HTML5***
        + ***HTML***
