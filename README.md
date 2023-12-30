@@ -21,7 +21,7 @@ These certificates are a testament to my dedication, expertise, and continuous l
        + ***IBM Data Sceince***
        + ***Python Project for Data Science***
        
-   + 🌠 [Scrimba](https://scrimba.com/)
+   2. 🌠 [Scrimba](https://scrimba.com/)
        + ***HTML5***
        + ***HTML***
        + ***CSS3***
