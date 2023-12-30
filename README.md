@@ -30,7 +30,7 @@ These certificates are a testament to my dedication, expertise, and continuous l
        + ***React***
        + ***Python***
        + ***Svelte***
-   + 🎇 [Sololearn](https://www.sololearn.com/)
+   3. 🎇 [Sololearn](https://www.sololearn.com/)
        + ***HTML5***
        + ***CSS3***
        + ***JavaScript***
