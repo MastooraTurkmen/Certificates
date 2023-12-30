@@ -19,6 +19,7 @@ These certificates are a testament to my dedication, expertise, and continuous l
        + ***HTML5***
        + ***HTML***
        + ***CSS3***
+       + ***CSS***
        + ***JavaScript***
        + ***React***
        + ***Python***
