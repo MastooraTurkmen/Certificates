@@ -23,6 +23,7 @@ These certificates are a testament to my dedication, expertise, and continuous l
        + ***Python***
        + ***Svelte***
    + [Sololearn](https://www.sololearn.com/)
+       + ***HTML5***
 
 2. **Universities**
    + [University of The People](https://www.uopeople.edu/)
