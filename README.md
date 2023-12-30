@@ -16,6 +16,7 @@ These certificates are a testament to my dedication, expertise, and continuous l
 1. ***Courses***
    + [Coursera](https://www.coursera.org/)
    + [Scrimba](https://scrimba.com/)
+       + ***HTML***
    + [Sololearn](https://www.sololearn.com/)
 
 2. **Universities**
