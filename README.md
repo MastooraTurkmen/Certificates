@@ -11,9 +11,9 @@ These certificates are a testament to my dedication, expertise, and continuous l
 
 
 
-## Universities & Courses 🎊 🎖 📒
+# Universities & Courses 🎊 🎖 📒
 
-### ***Courses***
+## ***Courses***
    1. 🎆 [Coursera](https://www.coursera.org/)
        + ***Google IT Support***
        + ***IBM***
@@ -36,11 +36,14 @@ These certificates are a testament to my dedication, expertise, and continuous l
        + ***JavaScript***
        + ***React***
 
-
-#### Coursera Certificates of Achievement
+### ***1.Coursera Certificates of Achievement***
 
 ![Google IT Support Png](./images/image.png)
 
-### **Universities**
+
+
+
+
+## **Universities**
    + [University of The People](https://www.uopeople.edu/)
 
