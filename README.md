@@ -42,7 +42,7 @@ These certificates are a testament to my dedication, expertise, and continuous l
 
 ![IBM Data Engineering](./images/Coursera-IBM.png)
 
-![Alt text](./images/Python-project-for-data-science.png)
+![Python-project-for-data-science](./images/Python-project-for-data-science.png)
 
 ## **Universities**
    + [University of The People](https://www.uopeople.edu/)
