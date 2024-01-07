@@ -46,7 +46,7 @@ These certificates are a testament to my dedication, expertise, and continuous l
 
 ### ***2.Scrimba Certificates of Achievement***
 
-![Alt text](image.png)
+![Alt text](./images/frontend-career-path-scrimba.png)
 
 
 ## **Universities**
