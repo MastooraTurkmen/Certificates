@@ -50,8 +50,6 @@ These certificates are a testament to my dedication, expertise, and continuous l
 
 ![Frontend-developer-career-path-scrimba](./images/frontend-career-path-scrimba.png)
 
-![Alt text](image.png)
-
 
 ## **Universities**
    + [University of The People](https://www.uopeople.edu/)
