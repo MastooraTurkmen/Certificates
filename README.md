@@ -38,7 +38,7 @@ These certificates are a testament to my dedication, expertise, and continuous l
 
 ### ***1.Coursera Certificates of Achievement***
 
-![Google IT Support Png](./images/image.png)
+![Google IT Support Png](./images/Google-IT.png)
 
 ![IBM Data Engineering](./images/Coursera-IBM.png)
 
