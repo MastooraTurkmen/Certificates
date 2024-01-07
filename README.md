@@ -51,7 +51,7 @@ These certificates are a testament to my dedication, expertise, and continuous l
 ![Frontend-developer-career-path-scrimba](./images/frontend-career-path-scrimba.png)
 
 
-![UI design](image.png)
+![UI design](./images/UI-design.png)
 
 
 ## **Universities**
