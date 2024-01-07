@@ -50,7 +50,7 @@ These certificates are a testament to my dedication, expertise, and continuous l
 
 ![Frontend-developer-career-path-scrimba](./images/frontend-career-path-scrimba.png)
 
-![JavaScipt](image.png)
+![JavaScipt](./images/JavaScript.png)
 
 ![UI design](./images/UI-design.png)
 
