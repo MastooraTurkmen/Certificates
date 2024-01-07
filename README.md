@@ -58,4 +58,4 @@ These certificates are a testament to my dedication, expertise, and continuous l
 ## **Universities**
    + [University of The People](https://www.uopeople.edu/)
 
-![Alt text](image-1.png)
+![University of The People](./images/University-of-the-people.png)
