@@ -44,6 +44,8 @@ These certificates are a testament to my dedication, expertise, and continuous l
 
 ![Python-project-for-data-science](./images/Python-project-for-data-science.png)
 
+![Alt text](image.png)
+
 ### ***2.Scrimba Certificates of Achievement***
 
 ![Frontend-developer-career-path-scrimba](./images/frontend-career-path-scrimba.png)
