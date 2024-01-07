@@ -44,7 +44,7 @@ These certificates are a testament to my dedication, expertise, and continuous l
 
 ![Python-project-for-data-science](./images/Python-project-for-data-science.png)
 
-![Alt text](image.png)
+![Alt text](./images/IBM-Data-Science.png)
 
 ### ***2.Scrimba Certificates of Achievement***
 
