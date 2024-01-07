@@ -44,6 +44,9 @@ These certificates are a testament to my dedication, expertise, and continuous l
 
 ![Python-project-for-data-science](./images/Python-project-for-data-science.png)
 
+
+![Alt text](image.png)
+
 ## **Universities**
    + [University of The People](https://www.uopeople.edu/)
 
